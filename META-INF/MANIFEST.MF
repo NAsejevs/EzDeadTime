@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: lib/TunerStudioPluginAPI-javadoc.jar lib/TunerStudioPlugin
+Main-Class: ezdeadtime.EzDeadTime
+ApplicationPlugin: ezdeadtime.EzDeadTime
+
+
